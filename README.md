@@ -11,6 +11,6 @@
 <details><summary><b>2023/10/03</b></summary>
     
 - [x] Added Java Schema png.
-- [ ] Test .gitignore with JavaSchema.png
+- [x] Test .gitignore with JavaSchema.png. Comment out JavaSchema.png on .gitignore. 
 
 </details>
